@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Abhishek kumar Roy👋
 
+
+- 👯 I’m looking to collaborate on different projects to learn 
 <!--
-**FehmiDeniz/FehmiDeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently a 3rd year B-Tech-CSE student, learner and used to explore difference tech languages..
+- 🌱 I’m currently learning JAVA and PYTHON-DSA
+- 📫 How to reach me: [Twitter-@Abhishekady9](https://twitter.com/abhishekady9)
+- [LinkedIn-rack-abhishek](https://www.linkedin.com/in/rack-abhishek)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I used to spend my time by learning 
+
+
+## MY HACKTOBERFEST CONTRIBUTION RESULT[![@abhi9shek's Holopin board](https://holopin.me/abhi9shek)](https://holopin.io/@abhi9shek)
+
+![enter image description here](https://github-readme-stats.vercel.app/api?username=Adi-Abhishek&&theme=dark&show_icons=true)
